@@ -1,7 +1,7 @@
 # ふれふれまとい
 
 ```sh
-git clone git clone git@github.com:hurehure-matoi/hurehure-matoi.git
+git clone git@github.com:hurehure-matoi/hurehure-matoi.git
 ```
 > **Open it in Unity! 👍**
 
