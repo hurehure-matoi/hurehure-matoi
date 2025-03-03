@@ -1,10 +1,46 @@
 # ふれふれまとい
 
-```sh
-git clone git@github.com:hurehure-matoi/hurehure-matoi.git
-```
-> **Open it in Unity! 👍**
+![ふれふれまといパッケージ](https://github.com/user-attachments/assets/f81d547d-189b-4a19-8322-962cb0fc5888)
 
 <br>
 
-![ふれふれまといパッケージ](https://github.com/user-attachments/assets/f81d547d-189b-4a19-8322-962cb0fc5888)
+## 🎮 ふれふれまといとは？
+**「ふれふれまとい」** は、江戸時代の火消しが使用していた旗印 **「まとい」** を操作し、キャラクターを動かしながら消火活動を行うゲームです。  
+直感的な操作とアクション要素を楽しみながら、火消しの文化を体験できます。
+
+<br>
+
+## 🛠️ 動作環境
+- **Unity**: 2022.3.24f1以上
+- **開発環境**: Windows / macOS
+- **入力デバイス**: キーボード
+
+<br>
+
+## 🚀 インストール方法
+1. リポジトリをクローン
+```sh
+   git clone git@github.com:hurehure-matoi/hurehure-matoi.git
+```
+
+2. Unityでプロジェクトを開く
+
+3. `Scenes/StartScene` を開く
+
+4. Unityの再生ボタン ▶ を押してプレイ！
+
+<br>
+
+## 🎮 遊び方
+1. 移動:
+   - W / ↑ … 前進
+   - A / ← … 左移動
+   - D / → … 右移動
+2. 消火:
+   - 燃えている家に近づき、Z または Enter を押して消火！ 🔥💨
+3. 目指せ高スコア！
+   - より多くの家を消火して、火事を食い止めよう！ 🏆🔥
+
+<br>
+
+> **Let's enjoy the game! 👍**
